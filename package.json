@@ -2,10 +2,10 @@
     "name": "netship-api",
     "version": "1.0.0",
     "description": "",
-    "main": "app.js",
+    "main": "api/index.js",
     "scripts": {
-        "start": "node app.js",
-        "dev": "nodemon app.js"
+        "start": "node api/index.js",
+        "dev": "nodemon api/index.js"
     },
     "engines": {
         "node": "24.x"
